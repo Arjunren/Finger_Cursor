@@ -32,8 +32,8 @@ Ensure you have Python 3.8+ installed. You will need a functioning webcam and a 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Arjunren/Finger_Cursor.git](https://github.com/yourusername/artificial-mouse.git)
-   cd artificial-mouse
+   git clone https://github.com/Arjunren/Finger_Cursor.git
+   cd Finger_Cursor
    ```
 
 2. Install the required dependencies:
