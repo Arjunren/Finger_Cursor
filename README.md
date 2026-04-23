@@ -68,14 +68,3 @@ The core engine utilizes **MediaPipe Hands** to identify 21 3D hand landmarks in
 * **Landmark 4 (Thumb Tip):** Used in conjunction with the index tip to calculate Euclidean distance for gesture triggers.
 
 The software employs a state machine to track the duration and frequency of "pinch" events, enabling the distinction between simple clicks, sustained drags, and secondary clicks.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-**Developed by [Arjunren Von](https://github.com/Arjunren)**
-```
